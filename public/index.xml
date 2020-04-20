@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KeepIt on KeepIt</title>
+    <title>helpBD.net on helpBD.net</title>
     <link>https://example.com/</link>
-    <description>Recent content in KeepIt on KeepIt</description>
+    <description>Recent content in helpBD.net on helpBD.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="https://example.com/" rel="self" type="application/rss+xml" />
