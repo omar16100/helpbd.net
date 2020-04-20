@@ -21,3 +21,5 @@ brew install hugo
 ```bash
 hugo server
 ```
+
+PRs welcomed!
