@@ -1,5 +1,13 @@
 # helpBD.net : helping volunteers to serve better
 
+
+# Deployed to AWS S3
+- The public directory only
+- TODO : use
+```bash
+hugo deploy
+```
+
 # Contribute
 
 This is [hugo site](https://gohugo.io/)
