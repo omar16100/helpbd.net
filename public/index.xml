@@ -1,11 +1,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>helpBD.net on helpBD.net</title>
-    <link>https://example.com/</link>
+    <link>http://helpbd.net/</link>
     <description>Recent content in helpBD.net on helpBD.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://example.com/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Apr 2020 20:06:55 +0800</lastBuildDate>
+    <atom:link href="http://helpbd.net/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>http://helpbd.net/posts/</link>
+      <pubDate>Tue, 21 Apr 2020 20:09:02 +0800</pubDate>
+      
+      <guid>http://helpbd.net/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://helpbd.net/about/</link>
+      <pubDate>Tue, 21 Apr 2020 20:06:55 +0800</pubDate>
+      
+      <guid>http://helpbd.net/about/</guid>
+      <description>&lt;p&gt;Hello world&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

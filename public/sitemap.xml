@@ -2,7 +2,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://example.com/categories/</loc>
+      <loc>http://helpbd.net/posts/</loc>
+      
+      <lastmod>2020-04-21T20:09:02+08:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -14,7 +16,9 @@
     </url>
   
     <url>
-      <loc>https://example.com/</loc>
+      <loc>http://helpbd.net/2020/second_post/</loc>
+      
+      <lastmod>2020-04-21T20:09:02+08:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -26,7 +30,61 @@
     </url>
   
     <url>
-      <loc>https://example.com/tags/</loc>
+      <loc>http://helpbd.net/about/</loc>
+      
+      <lastmod>2020-04-21T20:06:55+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://helpbd.net/</loc>
+      
+      <lastmod>2020-04-21T20:06:55+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://helpbd.net/2020/hello-world/</loc>
+      
+      <lastmod>2020-04-21T18:53:52+08:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://helpbd.net/categories/</loc>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://helpbd.net/tags/</loc>
       
       
       <changefreq>monthly</changefreq>

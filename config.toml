@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "http://helpbd.net"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "helpBD.net"
@@ -36,7 +36,7 @@ disqusShortname = "yourdiscussshortname"
 
   [[menu.main]]
     name = "About"
-    url = "/about"
+    url = "/about/"
     weight = 4
 
 [params]
@@ -139,50 +139,50 @@ Facebook = true
 # Used only for Seo schema
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
-[author]
-  name = "Fastbyte01"
+#[author]
+#  name = "Fastbyte01"
+#
+#  [params.publisher]
+#    name = "Fastbyte01"
+#
+#    [params.publisher.logo]
+#      url = "logo.png"
+#      width = 127
+#      height = 40
+#
+#  [params.logo]
+#    url = "logo.png"
+#    width = 127
+#    height = 40
+#
+#  [params.image]
+#    url = "cover.png"
+#    width = 800
+#    height = 600
 
-  [params.publisher]
-    name = "Fastbyte01"
+#[params.gitalk]
+#owner = ""       # Your GitHub ID
+#repo = ""        # The repo to store comments
+#clientId = ""    # Your client ID
+#clientSecret = "" # Your client secret
 
-    [params.publisher.logo]
-      url = "logo.png"
-      width = 127
-      height = 40
+#[params.valine]
+#  enable = false
+#  language = 'en'
+#  appId = 'your appId'
+#  appKey = 'your appKey'
+#  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+#  verify = false # Verification code
+#  avatar = 'mm'
+#  placeholder = 'your comments ...'
+#  visitor = true
 
-  [params.logo]
-    url = "logo.png"
-    width = 127
-    height = 40
+#[params.utterances]       # https://utteranc.es/
+#    owner = ""              # Your GitHub ID
+#    repo = ""               # The repo to store comments
 
-  [params.image]
-    url = "cover.png"
-    width = 800
-    height = 600
-
-[params.gitalk]
-owner = ""       # Your GitHub ID
-repo = ""        # The repo to store comments
-clientId = ""    # Your client ID
-clientSecret = "" # Your client secret
-
-[params.valine]
-  enable = false
-  language = 'en'
-  appId = 'your appId'
-  appKey = 'your appKey'
-  notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
-  verify = false # Verification code
-  avatar = 'mm'
-  placeholder = 'your comments ...'
-  visitor = true
-
-[params.utterances]       # https://utteranc.es/
-    owner = ""              # Your GitHub ID
-    repo = ""               # The repo to store comments
-
-[params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-    owner = ""              # Your GitHub ID
-    repo = ""               # The repo to store comments
-    clientId = ""           # Your client ID
-    clientSecret = ""       # Your client secret
+#[params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
+#    owner = ""              # Your GitHub ID
+#    repo = ""               # The repo to store comments
+#    clientId = ""           # Your client ID
+#    clientSecret = ""       # Your client secret
