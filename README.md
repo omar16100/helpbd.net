@@ -10,7 +10,12 @@ hugo deploy
 
 # Contribute
 
-This is [hugo site](https://gohugo.io/)
+Create a new blog post :
+```bash
+hugo new content/posts/post_name.md
+```
+
+This is a [hugo site](https://gohugo.io/)
 
 - Install hugo 
 ```bash
